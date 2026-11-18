@@ -1,0 +1,8 @@
+numpy>=1.24
+tqdm>=4.65
+click>=8.1
+rich>=13.0
+pytest>=7.4
+phevaluator>=0.5.0
+streamlit>=1.35
+plotly>=5.20
